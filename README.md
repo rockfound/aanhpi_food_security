@@ -8,7 +8,14 @@ The Rockefeller Foundation ran a nationwide survey on Food and Nutrition Securit
 - **Themes**: Food security, nutrition security, and access to SNAP benefits
 - **Sample size**: 1,115
 
-## How we identified food security status:
+## Survey Results
+Take a look at the fact sheet for our survey results here: [Food Security Survey Results](aanhpi_food_insecurity_results_2023.pdf)
+
+Here are some key takeaways:
+- **22%** of the AA & NHPI community reported facing food insecurity
+- Of those who face food insecurity, **60%** also reported facing nutrition insecurity
+
+## How we identified food security status
 Food security is calculated based on the [USDA 6-item survey standards](https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-u-s/survey-tools). These questions are represented in Q1 to Q6 of our survey. We followed the USDA guideline for scoring food security status:
 
 - Raw score 0-1—High or marginal food security (raw score 1 may be considered marginal food security, but a large proportion of households that would be measured as having marginal food security using the household or adult scale will have raw score zero on the six-item scale)
@@ -20,7 +27,7 @@ Food security is calculated based on the [USDA 6-item survey standards](https://
 For our reporting purposes, the food security status of households with raw score 0-1 is described as food secure and the two categories “low food security” and “very low food security” in combination are referred to as food insecure.
 
 
-## How we identified nutrition security status:
+## How we identified nutrition security status
 Nutrition security is calculated based on the [Tufts University nutrition security screener question](https://tuftsfoodismedicine.org/project/nss). These questions are represented in Q7 and Q8 of our survey. We followed Tuft University's guideline for scoring nutrition security status:
 
 - While the optimal scoring of the NSS requires more research, one possibility is to define low nutrition security as responses of “somewhat hard", "hard", or "very hard" to the question "Thinking about the last 12 months, how hard was it for you or your household to regularly get and eat healthy foods?"

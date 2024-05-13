@@ -9,8 +9,6 @@ The Rockefeller Foundation ran a nationwide survey on Food and Nutrition Securit
 - **Sample size**: 1,115
 
 ## Survey Results
-Take a look at the fact sheet for our survey results here: [Food Security Survey Results](aanhpi_food_insecurity_results_2023.pdf)
-
 Here are some key takeaways:
 - **22%** of the AA & NHPI community reported facing food insecurity
 - Of those who face food insecurity, **60%** also reported facing nutrition insecurity
